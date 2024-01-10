@@ -1,5 +1,5 @@
 {
-    "name": "tree",
+    "name": "block",
     "description": "",
     "dependencies": {
         "device": "*"
